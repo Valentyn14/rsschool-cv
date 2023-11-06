@@ -31,3 +31,13 @@ function getLargestExpressionResnlt(a, b) {
 }
 ```
 ***
+## My works on the webinar
+* Library website:  [https://rolling-scopes-school.github.io/valentyn14-JSFEPRESCHOOL2023Q2/library/](https://rolling-scopes-school.github.io/valentyn14-JSFEPRESCHOOL2023Q2/library/)
+* Bose website:  [https://bejewelled-platypus-e16b3c.netlify.app/](https://bejewelled-platypus-e16b3c.netlify.app/)
+* Demo resume: [https://rad-bubblegum-835543.netlify.app/](https://rad-bubblegum-835543.netlify.app/)
+* Banderogus site: [https://nimble-chaja-4e1bbd.netlify.app/](https://nimble-chaja-4e1bbd.netlify.app/)
+***
+## Language
+* Ukrainian  -  native
+* Russian  -  I know the language well
+* English  -  just started lerning(I use Duolingo, Busuu and Google Translate)
